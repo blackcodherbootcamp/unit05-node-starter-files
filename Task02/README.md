@@ -1,4 +1,4 @@
-# Session 5 Starter Files
+# Session 5 Starter Files: Task 2
 
 Ensure all the necessary node libraries have been installed
 

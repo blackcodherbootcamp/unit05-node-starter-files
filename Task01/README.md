@@ -1,6 +1,4 @@
-# Session 5 Starter Files
-
-## Task 1
+# Session 5 Starter Files: Task 1
 
 For this task you are going to create a static file server using express.
 The server will return a single [index.html](./src/public/index.html) page as the homepage.
