@@ -8,11 +8,10 @@ The server will return a single [index.html](./src/public/index.html) page as th
 When a user visits the following URL, the [index.html](./src/public/index.html)  page will be displayed:
 https://localhost:8080/
 
-Ensure express and nodemon are installed:
+Ensure all the necessary node libraries have been installed
 
 ```
-npm install express
-npm install nodeman
+npm install
 ```
 
 Add code to [index.js](./src/index.js) to enable static files (images, css, js files) to be served from a _virtual path_ called **content** and the physical directory **public**. Use middleware and the `express.static` methods.
