@@ -2,10 +2,7 @@
   "name": "static-file-server",
   "version": "1.0.0",
   "description": "A Static File Server",
-  "dependencies": {
-    "express": "^4.17.3",
-    "nodemon": "^2.0.15"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "start": "nodemon src/index.js",
