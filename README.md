@@ -29,7 +29,7 @@ Below is a list of the primary modules and their respective tasks available in t
 - Learn to set up a static file server using Express.
 - Understand the basics of serving static content like HTML, CSS, and images.
 
-### [Build an API](./build-an-api/README.md)
+### [Build an API](./profile-browser/README.md)
 
 - Develop a RESTful API to perform CRUD operations on JSON data.
 - Gain practical experience with Express routing and HTTP methods.
